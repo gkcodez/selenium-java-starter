@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63007" started-at="2016-09-28T07:23:26Z" finished-at="2016-09-28T07:24:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63007" started-at="2016-09-28T07:23:26Z" finished-at="2016-09-28T07:24:29Z">
+      <class name="tests.MainTest">
+        <test-method status="PASS" signature="getWebDriver()[pri:0, instance:tests.MainTest@16e3eb3]" name="getWebDriver" is-config="true" duration-ms="2171" started-at="2016-09-28T12:53:26Z" finished-at="2016-09-28T12:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebDriver -->
+        <test-method status="PASS" signature="testRegistration()[pri:0, instance:tests.MainTest@16e3eb3]" name="testRegistration" duration-ms="44781" started-at="2016-09-28T12:53:28Z" finished-at="2016-09-28T12:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method status="PASS" signature="loginNewTours()[pri:1, instance:tests.MainTest@16e3eb3]" name="loginNewTours" duration-ms="16039" started-at="2016-09-28T12:54:13Z" finished-at="2016-09-28T12:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNewTours -->
+      </class> <!-- tests.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
